@@ -1,0 +1,8 @@
+Origin: Dark Tweaks
+Label: Dark Tweaks
+Suite: mix
+Version: 1.0
+Codename: darktweaks
+Architectures: iphoneos-arm
+Components: main
+Description: DK189's Tweaks (Dark Tweaks).
