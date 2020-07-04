@@ -28,3 +28,16 @@ Architecture: iphoneos-arm
 Depends: dpkg, uikittools, firmware (>= 9.0)
 Depiction: https://dk189.github.io/Tweaks/ios/pkgs/sample001/
 Filename: ./pkgs/sample001/files/org.kingdark.tweaks.ios.sample001.deb
+
+Section: iOsGods
+Name: Archero iGMM
+Package: iosgods.com.arc
+Version: 1.4.8+iOSGods.com
+Description: Archero iGMM Cheats by DanYal for iOSGods.com!
+Author: DanYal <iosgods.com>
+Maintainer: DanYal <iosgods.com>
+Tag: compatible::13.0-13.5.1
+Architecture: iphoneos-arm
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Depiction: https://dk189.github.io/Tweaks/ios/pkgs/iosgods/archero_mod_menu/
+Filename: ./pkgs/iosgods/archero_mod_menu/files/arc_1.4.8+iphoneos-arm.deb
