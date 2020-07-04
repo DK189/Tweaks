@@ -26,5 +26,5 @@ Maintainer: King Dark <admin@kingdark.org>
 Tag: compatible::13.0-13.5.1
 Architecture: iphoneos-arm
 Depends: dpkg, uikittools, firmware (>= 9.0)
-Depiction: https://dk189.github.io/Tweaks/ios/pkgs/xyz.willy.Zebra/
+Depiction: https://dk189.github.io/Tweaks/ios/pkgs/sample001/
 Filename: ./pkgs/sample001/files/org.kingdark.tweaks.ios.sample001.deb
